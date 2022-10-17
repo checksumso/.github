@@ -8,7 +8,12 @@
 
 ### Checksum: A Complete B2B Payments Solution
 
-Checksum enables businesses to easily process checks, invoices, expenses, and payroll for auditable account management.
+
+```
+Checksum enables businesses to easily process 
+checks, invoices, expenses, and payroll 
+for auditable account management.
+```
 
 Checksum is an all-in-one business payments management solution for facilitating day-to-day financial operations on the XRP network’s payment rails using stablecoins & CBDCs. Checksum is an online platform service that will allow businesses to easily process digital checks, invoices, expenses, instant payments, and automated payroll with an intuitive management interface. Put simply, our goal with Checksum is to onboard businesses to the XRPL ecosystem and unleash the power of XRPL powered digital payments for businesses. The project is led by Whirledlabs, an incubator dedicated to the development of software applications using XRPL technology. 
 
