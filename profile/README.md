@@ -19,7 +19,7 @@ Checksum is an all-in-one business payments management solution for facilitating
 
 ---
 
-At whirledlabs, we envision that the XRP protocol will provide the financial rails for the next digital financial system. Inspired by the technology of the XRP protocol in 2020, Ryan Molley founded whirledlabs after developing 7+ applications using the XRP network. Pablo, coming from a BD fintech background, teamed up with Ryan to develop  fintech applications using XRPL payment rails. With the arrival of stablecoins & CBDCs, a Quickbooks-like payments platform is desperately needed to facilitate mass adoption of businesses and the utilization of new forms of XRPL-Native Digital Currencies. This is what inspired us to work on Checksum. 
+We envision that the XRP protocol will provide the financial rails for the next digital financial system. Inspired by the technology of the XRP protocol in 2020, Ryan Molley founded whirledlabs after developing 7+ applications using the XRP network. Pablo, coming from a BD fintech background, teamed up with Ryan to develop  fintech applications using XRPL payment rails. With the arrival of stablecoins & CBDCs, a Quickbooks-like payments platform is desperately needed to facilitate mass adoption of businesses and the utilization of new forms of XRPL-Native Digital Currencies. This is what inspired us to work on Checksum. 
 
 ---
 
